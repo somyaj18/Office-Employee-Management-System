@@ -4,7 +4,7 @@ The Office Employee Management System is a web-based application designed to man
 
 This project is built using Django (Python Framework) for the backend and Bootstrap (HTML, CSS, JS) for the frontend.
 
-🛠️ Technologies Used
+Technologies Used
 Frontend:
 HTML5, CSS3, Bootstrap 4.3
 
